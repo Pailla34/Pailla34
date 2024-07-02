@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Lagahé</h1>
-<h3 align="center">A passionate Data Scientist from France</h3>
+<h3 align="center">A passionate Data Scientist from France. I like Data cleaning, regression model and machine learning!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pailla34" alt="pailla34" /></a> </p>
 
